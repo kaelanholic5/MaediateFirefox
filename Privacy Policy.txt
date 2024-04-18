@@ -1,0 +1,6 @@
+Our Policy:
+
+We only send the URL of the website you are on to our webservice/database so we can determine if we have data for you.
+We do not store these URLs in any way. Your data is only used to retrieve information from our database.
+Other than URLs, we do not send any data to our webservice/database.
+We store none of your information.
